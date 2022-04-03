@@ -11,3 +11,7 @@ The product manager would like to increase this conversion rate. They are intere
 ### Objective:
 
 Built property rental prediction model to estimate money user could earn renting out their living space. Estimated price should not be more than 25 dollars off of the actual price.
+
+I will need to present your findings in two formats:
+- I must submit a written report summarising your analysis to technical audience that has a strong technical background and wants to understand what you have done and why. 
+- I will then need to do a 10 minute presentation. The presentaion should be targeted at non-technical audience with no data science background but is familiar with basic data related terminology. 
